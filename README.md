@@ -1,7 +1,7 @@
-# LoveProject
-A simple static webpage as a gift for my girlfriend . Although a personal project , but made it open-source to help all the lovers out there who are seeking for a creative idea to impress their partners.
+# Projeto eu te amo
+Uma page estática simples que fiz de presente para minha namorada no dia dos namorados.
 <br>
-You can check this out with 
+Você pode ver a página pronta 
 
 <br>
-Link: https://ritvikbhatia.github.io/LoveProject
+Link: https://gbrskk.github.io/dia-dos-namorados
